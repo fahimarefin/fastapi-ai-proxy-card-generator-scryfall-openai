@@ -34,7 +34,6 @@ TYPE_Y1,  TYPE_Y2  = 561, 616     # type line + set symbol
 TEXT_Y1,  TEXT_Y2  = 619, 962     # rules text box
 BOT_Y1,   BOT_Y2   = 965, 1036   # artist / collector strip
 
-# ── Colour constants ───────────────────────────────────────────────────────────
 PARCHMENT      = (246, 238, 212)
 PARCHMENT_DARK = (232, 220, 185)
 DARK_INK       = (16, 10, 6)
