@@ -88,8 +88,7 @@ python demo/generate_demo_cards.py --mode full_ai   # for side-by-side compariso
 ```
 
 Generated images are saved to `./outputs/` and served at
-`http://localhost:8000/outputs/<filename>.png` — you can drop those links
-straight into the Fiverr chat.
+`http://localhost:8000/outputs/<filename>.png`
 
 ## Generating a single custom card
 
